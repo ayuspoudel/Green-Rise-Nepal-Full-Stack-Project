@@ -2,7 +2,7 @@
 
 # Link To Website
 
-[Link Text](https://greenyouthnp.netlify.app/landing)
+[Green Youth NP](https://greenyouthnp.netlify.app/landing)
 
 ## Project Overview
 

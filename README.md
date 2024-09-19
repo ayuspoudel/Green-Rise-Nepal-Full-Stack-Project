@@ -1,9 +1,8 @@
 # Green Rise Nepal - Full Stack MERN Project
-```
+
 Link To Website
 [Link Text](https://greenyouthnp.netlify.app/landing)
 
-```
 ## Project Overview
 
 Green Rise Nepal is a full-stack web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). This project aims to provide a comprehensive platform that includes job listings, interactive charts, and user authentication. It serves as a robust example of modern web development practices.

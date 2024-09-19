@@ -1,7 +1,7 @@
 # Green Rise Nepal - Full Stack MERN Project
 ```
 Link To Website
-https://greenyouthnp.netlify.app/landing
+[Link Text](https://greenyouthnp.netlify.app/landing)
 
 ```
 ## Project Overview
